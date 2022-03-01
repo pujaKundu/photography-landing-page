@@ -30,14 +30,14 @@ const Nav = () => {
       <div class="w-full block flex-grow lg:flex lg:items-center sm:items-center lg:w-auto ">
         <div class="text-sm lg:flex-grow">
           <a
-            href="#responsive-header"
+            href="#about"
             id="about"
             class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600 mr-4"
           >
             About Us
           </a>
           <a
-            href="#responsive-header"
+            href="#services"
             id="services"
             class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600 mr-4"
           >
