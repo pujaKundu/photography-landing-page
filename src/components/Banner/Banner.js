@@ -40,7 +40,7 @@ const Banner = () => {
               alt="Wild Landscape"
             />
             <div class="carousel-caption hidden md:block absolute text-center">
-              <h5 class="text-xl">Moments that stay with you</h5>
+              <h5 class="text-4xl">Moments that stay with you</h5>
               <p>Capture every beautiful moment of your life.</p>
             </div>
           </div>
@@ -51,7 +51,7 @@ const Banner = () => {
               alt="Camera"
             />
             <div class="carousel-caption hidden md:block absolute text-center">
-              <h5 class="text-xl">Moments that stay with you</h5>
+              <h5 class="text-4xl">Capture beautiful moments</h5>
               <p>Capture every beautiful moment of your life.</p>
             </div>
           </div>
@@ -62,7 +62,7 @@ const Banner = () => {
               alt="Exotic Fruits"
             />
             <div class="carousel-caption hidden md:block absolute text-center">
-              <h5 class="text-xl">Moments that stay with you</h5>
+              <h5 class="text-4xl">Your imagination comes to life</h5>
               <p>Capture every beautiful moment of your life.</p>
             </div>
           </div>
