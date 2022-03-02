@@ -50,13 +50,7 @@ const Nav = () => {
           >
             Works
           </a>
-          <a
-            href="#team"
-            
-            class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600"
-          >
-            Team
-          </a>
+         
         </div>
       </div>
     </nav>
