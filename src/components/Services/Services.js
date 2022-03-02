@@ -14,8 +14,8 @@ const Services = () => {
             <Fade left>
               <div className=" text-gray-800 border border-gray-200 drop-shadow-3xl mx-8 mb-8 shadow-xl hover:shadow-2xl">
                 <div className="border">
-                  <h2 className="text-3xl font-semibold py-5">Minimal</h2>
-                  <h3 className="text-2xl pb-3">
+                  <h2 className="text-2xl font-semibold py-5">Minimal</h2>
+                  <h3 className="text-xl pb-3">
                     <span className="font-semibold">Price:</span> $20
                   </h3>
                 </div>
@@ -40,8 +40,8 @@ const Services = () => {
 
             <div className=" text-gray-800 border border-gray-200 drop-shadow-3xl mx-8 mb-8 shadow-xl hover:shadow-2xl">
               <div className="border">
-                <h2 className="text-3xl font-semibold py-5">Standard</h2>
-                <h3 className="text-2xl pb-3">
+                <h2 className="text-2xl font-semibold py-5">Standard</h2>
+                <h3 className="text-xl pb-3">
                   <span className="font-semibold">Price:</span> $40
                 </h3>
               </div>
@@ -65,8 +65,8 @@ const Services = () => {
             <Fade right>
               <div className=" text-gray-800 border border-gray-200 drop-shadow-3xl mx-8 mb-8 shadow-xl hover:shadow-2xl">
                 <div className="border">
-                  <h2 className="text-3xl font-semibold py-5">Exclusive</h2>
-                  <h3 className="text-2xl pb-3">
+                  <h2 className="text-2xl font-semibold py-5">Exclusive</h2>
+                  <h3 className="text-xl pb-3">
                     <span className="font-semibold">Price:</span> $100
                   </h3>
                 </div>

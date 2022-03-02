@@ -31,28 +31,28 @@ const Nav = () => {
         <div class="text-sm lg:flex-grow">
           <a
             href="#about"
-            id="about"
+            
             class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600 mr-4"
           >
             About Us
           </a>
           <a
             href="#services"
-            id="services"
+          
             class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600 mr-4"
           >
             Services
           </a>
           <a
-            href="#responsive-header"
-            id="works"
+            href="#works"
+           
             class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600 mr-4"
           >
             Works
           </a>
           <a
-            href="#responsive-header"
-            id="works"
+            href="#team"
+            
             class="block mt-4 lg:inline-block lg:mt-0 text-zinc-800 hover:text-purple-600"
           >
             Team
