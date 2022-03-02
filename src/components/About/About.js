@@ -3,7 +3,7 @@ import Fade from 'react-reveal/Fade';
 
 const About = () => {
     return (
-      <div className="my-24" id='about'>
+      <div className="my-24 " id='about'>
         <Fade bottom>
           <h1 className="text-6xl mb-20 text-purple-500">About Us</h1>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">

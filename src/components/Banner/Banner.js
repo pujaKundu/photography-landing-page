@@ -31,7 +31,7 @@ const Banner = () => {
         </div>
         <div
           class="carousel-inner relative w-full overflow-hidden"
-          style={{ height: "550px" }}
+          style={{ height: '90vh' }}
         >
           <div class="carousel-item active float-left w-full">
             <img

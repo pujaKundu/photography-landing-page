@@ -3,14 +3,14 @@ import Fade from 'react-reveal/Fade';
 
 const Reviews = () => {
     return (
-      <>
+   
         <Fade bottom>
           <h1 className="text-6xl mb-20 text-purple-500">Reviews</h1>
-        </Fade>
-        <Fade bottom>
+        
+        
           <div
             id="carouselDarkVariant"
-            class="carousel slide carousel-fade carousel-dark relative text-black-900 my-24"
+            class="carousel slide carousel-fade carousel-dark relative text-black-900 py-24"
             data-bs-ride="carousel"
           >
             <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
@@ -41,8 +41,8 @@ const Reviews = () => {
                   alt="Monica"
                 />
                 <div class="carousel-caption hidden md:block absolute text-center  text-gray-900 pt-24">
-                  <h5 class="text-xl">Monica Geller</h5>
-                  <p>
+                  <h5 class="text-xl text-black-900">Monica Geller</h5>
+                  <p className=" text-black-900">
                     Serene made my special day even more special.Amazing
                     photography.
                   </p>
@@ -56,8 +56,8 @@ const Reviews = () => {
                   alt="Mountaintop"
                 />
                 <div class="carousel-caption hidden md:block absolute text-center">
-                  <h5 class="text-xl">Amy Santiago</h5>
-                  <p>
+                  <h5 class="text-xl text-black-900">Amy Santiago</h5>
+                  <p className=" text-black-900">
                     Serene made my special day even more special.Amazing
                     photography.
                   </p>
@@ -71,8 +71,8 @@ const Reviews = () => {
                   alt="Woman Reading a Book"
                 />
                 <div class="carousel-caption hidden md:block absolute text-center">
-                  <h5 class="text-xl">Rachel Green</h5>
-                  <p>
+                  <h5 class="text-xl text-black-900">Rachel Green</h5>
+                  <p className="text-black-900">
                     Serene made my special day even more special.Amazing
                     photography.
                   </p>
@@ -106,7 +106,7 @@ const Reviews = () => {
             </button>
           </div>
         </Fade>
-      </>
+      
     );
 };
 
